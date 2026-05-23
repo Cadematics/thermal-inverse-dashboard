@@ -63,7 +63,7 @@ $0.4500\text{ W/m·K}$
 1- Clone the repository:
 
 ```text
-git clone [https://github.com/YOUR_USERNAME/thermal-inverse-dashboard.git](https://github.com/YOUR_USERNAME/thermal-inverse-dashboard.git)
+git clone https://github.com/Cadematics/thermal-inverse-dashboard.git
 cd thermal-inverse-dashboard
 ```
 
