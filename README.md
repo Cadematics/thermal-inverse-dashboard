@@ -7,7 +7,7 @@ An advanced SciML web application that leverages an **Inverse Physics-Informed N
 ---
 
 ## 🚀 Live Demo
-👉 **[Insert Your Vercel Live Link Here]**
+https://thermal-inverse-dashboard.vercel.app/
 
 ---
 
